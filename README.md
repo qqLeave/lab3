@@ -1,2 +1,1 @@
-# lab3
-lab3
+# AI_Labs
